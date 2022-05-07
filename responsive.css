@@ -242,6 +242,10 @@
 
  }
  @media all and (max-width:470px){
+     .banner-content h2,
+     .service-heading h1{
+         font-size: 20px;
+     }
     .brand ul li img{
         width: 55px;
         object-fit: cover;
