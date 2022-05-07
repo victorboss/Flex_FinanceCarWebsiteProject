@@ -36,7 +36,7 @@ body{
     color: #222C65;
     border-bottom: 2px solid transparent;
 }
-.header-nav-area>ul>li:hover a{
+.header-nav-area>ul>li>a:hover{
     border-bottom: 2px solid red;
     border-radius: 20%;
 }
