@@ -1,0 +1,248 @@
+@media all and (max-width:1495px) {
+    .container{
+        width: 95%;
+    }
+    .header-nav-area>ul>li>a{
+        padding: 10px;
+        font-size: 14px;
+    }
+    .car-left{
+        flex: 1;
+    
+    }
+    .car-right{
+        flex: 1;
+     }
+     .car-right img{
+         width: 100%;
+     }
+    .car-left h1{
+        font-size: 25px;
+    }
+    .car-left p{
+        font-size: 14px;
+        padding-bottom: 50px;
+    }
+    .legend-content h2{
+        font-size: 30px;
+    }
+    .legend-content p{
+        width: 85%;
+        margin: auto;
+        font-size: 18px;
+    }
+    .brand ul li img{
+        width: 100px;
+    }
+    .car-finance-content{
+        display: flex;
+        width: 90%;
+        margin: auto;
+    }
+    .loan-options,.poor-credit{
+        padding:20px
+     }
+    .loan-content p{
+        font-size: 15px;
+        min-height: 350px;
+    }
+    .loan-content h2{
+        font-size: 25px;
+        min-height: 150px;
+    }
+    .col-con>img+a{
+        font-size: 14px;
+        min-height: 40px;
+    }
+    .col-con p{
+        font-size: 12px;
+        min-height: 150px;
+    }
+    .service-heading h1{
+        font-size: 30px;
+    }
+    .col{
+        margin-right: 10px;
+    }
+    .search-content{
+        width: 90%;
+    }
+    .search-content h1{
+        width: 80%;
+        font-size: 30px;
+    }
+    .search-content p{
+        width: 75%;
+        font-size: 20px;
+     }
+     .search-content button{
+        padding:10px 0px;
+     }
+     .banner-content h2{
+        font-size: 30px;
+        letter-spacing: 5px;
+    }
+    .col-con img{
+
+        height: 250px;
+        
+    }
+    .banner-content h4{
+        font-size: 20px;
+    }
+    .banner-area{
+        height: 70vh;
+        background-size: 100% 100%;
+        object-fit: cover;
+    }
+    
+ }
+ @media all and (max-width:800px){
+    .container{
+        width: 100%;
+    }
+    .header-content{
+        display: block;
+    }
+    .header-logo-area img{
+        width: 50%;
+        margin: auto;
+        display: block;
+    }
+    .header-nav-area{
+        display: block;
+    }
+    .header-nav-area>ul{
+        display: block;
+    }
+    .header-nav-area>ul>li>a{
+        display: block;
+        text-align: center;
+        font-size: 18px;
+    }
+    .banner-content h2{
+        font-size: 25px;
+    }
+    .banner-content h4{
+        font-size: 18px;
+    }
+    .banner-area{
+        height: 60vh;
+    }
+    .banner-content{
+        height: 35vh;
+    }
+    .service-content{
+        display: block;
+        height: 100%;
+        
+    }
+    .service-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .service-heading h1{
+        font-size: 25px;
+    }
+    .service-details{
+        display: block;
+    }
+    .col{
+      margin: 20px 15px;
+    }
+    .col-des p{
+        font-size: 14px;
+    }
+    .legend-content h2{
+        font-size: 20px;
+    }
+    .legend-content p{
+        width: 100%;
+        font-size: 13px;
+        padding: 10px 10px;
+    }
+    .brand ul li img{
+        width: 70px;
+    }
+    .search-cars{
+        height: 45vh; 
+        background-size: 100% 100%;
+        background-position: center center;
+    }
+    .search-content{
+        width: 95%;
+    }
+    .search-content h1{
+        width: 95%;
+        font-size: 17px;
+    }
+    .search-content p{
+        width: 95%;
+        font-size: 12px;
+     }
+     .search-content button{
+        padding:10px 0px;
+        font-size: 11px;
+     }
+     .loan-content{
+        display: flex;
+        flex-direction: column;
+     }
+     .loan-content p{
+         color: #5A5D5A;
+         min-height: 245px;
+     }
+     .loan-content h2,
+     .poor-credit h2{
+         min-height: 80px;
+         font-size: 20px;
+     }
+   
+     .loan-options,.poor-credit{
+        margin-right: 0px;
+        margin-bottom: 25px;
+     }
+    
+     .loan-content button{
+        font-size: 12px;
+     }
+     .review-content{
+        width: 95%;
+     }
+     .review-content h1{
+         font-size: 25px;
+     }
+     .same{
+         display: block;
+     }
+     .col-con{
+         margin-right: 0px;
+         margin-bottom: 25px;
+     }
+     .col-con p,
+     .col-con a{
+         font-size: 14px;
+         min-height: 0px;
+     }
+     .col-con img{
+         width: 99%;
+         height: 250px;
+         object-fit: cover;
+         
+     }
+     .col-con>img+a{
+        min-height: 0px;
+    }
+    .col-con p{
+        min-height: 0px;
+    }
+    
+
+ }
+ @media all and (max-width:470px){
+   
+    .brand ul li img{
+        width: 60px;
+        object-fit: cover;
+    }
+ }
