@@ -247,4 +247,7 @@
         width: 60px;
         object-fit: cover;
     }
+      .search-cars{
+        height: 65vh;
+    }
  }
