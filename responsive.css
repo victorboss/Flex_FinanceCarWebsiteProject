@@ -112,8 +112,10 @@
     .header-nav-area{
         display: block;
     }
-    .header-nav-area>ul{
-        display: block;
+     .header-nav-area>ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
     .header-nav-area>ul>li>a{
         display: block;
